@@ -86,7 +86,6 @@ class Admin(Employee):
         self.role = 'Admin'
 
 
-
 if __name__ == '__main__':
 
     company1 = Company('CELPE', 'Energia')
